@@ -119,7 +119,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 **Mariam Ghareeb**
 📧 [mariamghareeb376@gmail.com](mailto:mariamghareeb376@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/mariam-ghareeb)
+🔗 [LinkedIn](https://www.linkedin.com/in/mariam-ghareeb-0a8517266/)
 📊 [Kaggle](https://www.kaggle.com/mariamelghareeb)
 
 ---
