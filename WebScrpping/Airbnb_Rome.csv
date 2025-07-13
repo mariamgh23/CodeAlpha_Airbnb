@@ -1,0 +1,299 @@
+﻿Airbnb_type,City,Price_before_sale,price_after_sale,Rates,Reviews_Num,Host_name,Host_Profession
+Room,Tuscolano,"ج.م10,312","ج.م7,147",4.64,14,Daniel,Social technician
+Loft,Trevi,"ج.م73,640","ج.م32,551",4.77,163,Federico,Audio
+Apartment,Trevi,"ج.م77,592","ج.م63,648",4.8,716,Juan Carlos,Musician
+Apartment,Celio,"ج.م166,053","ج.م137,055",5.0,69,Valeria,Freelance
+Vacation home,Rome,"ج.م60,379","ج.م36,644",4.88,98,G,Hosting for
+Vacation home,Rome,"ج.م82,736","ج.م70,586",4.9,309,Lilith,Secret agent
+Room,Tuscolano,"ج.م14,693","ج.م13,536",5.0,192,Royal,Hosting for
+Home,Rome,"ج.م32,359","ج.م23,802",4.85,387,Francesco,Hospitality
+Hotel,Castro Pretorio,"ج.م31,231","ج.م25,618",4.67,139,Giulia,Employee
+Room,Trionfale,"ج.م65,347","ج.م52,160",4.92,26,Elena,Hosting for
+Apartment,Portuense,"ج.م35,541","ج.م22,646",5.0,9,Lilith,Secret agent
+Apartment,Trevi,"ج.م40,877","ج.م35,654",4.9,597,G,Hosting for
+Apartment,Ludovisi,"ج.م32,701","ج.م25,618",4.95,116,Francesco,Hospitality
+Room,Don Bosco,"ج.م32,359","ج.م23,802",5.0,4,Isabella,Chef
+Apartment,Rome,"ج.م40,877","ج.م35,654",4.96,24,Maria Pia,Hosting for
+Apartment,Prati,"ج.م35,316","ج.م23,769",5.0,4,Annie,Researcher
+Apartment,della Vittoria,"ج.م50,798","ج.م34,994",4.89,461,Antonio,Inventory specialist
+Room,Trionfale,"ج.م27,085","ج.م21,789",4.92,26,Gregorio,Music organization
+Apartment,Prati,"ج.م25,087","ج.م22,726",5.0,4,Chiara,Hosting for
+Room,Tuscolano,"ج.م18,878","ج.م11,357",4.8,260,Mugiko,Hospitality
+Vacation home,Trastevere,"ج.م40,370","ج.م21,789",4.71,182,Sergio,Artist
+Apartment,Prati,"ج.م22,498","ج.م20,502",5.0,13,Daniele,Hosting for
+Apartment,Aurelio,"ج.م21,856","ج.م15,186",4.79,530,G,Hosting for
+Condo,Rome,"ج.م25,851","ج.م23,109",4.95,189,Claudio,Performer
+Room,Tuscolano,"ج.م50,798","ج.م34,994",4.79,58,Luigia,Television host
+Apartment,Tuscolano,"ج.م47,998","ج.م36,975",5.0,3,Alice,Illustrator
+Room,Trieste,"ج.م21,856","ج.م15,186",4.69,689,Lorenzo,Hospitality
+Condo,Tuscolano,"ج.م32,701","ج.م25,618",4.82,213,Emanuela,Entertainment
+Room,Castro Pretorio,"ج.م25,087","ج.م22,726",4.83,127,G,Hosting for
+Apartment,Tuscolano,"ج.م74,971","ج.م46,575",5.0,5,Antonio,Artist
+Apartment,Prati,"ج.م30,633","ج.م27,322",4.81,31,Alice,Illustrator
+Condo,Monti,"ج.م30,208","ج.م24,300",4.81,192,G,Hosting for
+Apartment,Campo Marzio,"ج.م24,879","ج.م22,565",4.89,210,Pier Francesco,Architect
+Apartment,Monti,"ج.م60,573","ج.م35,984",4.86,555,Benedetto,Artistic director
+Room,Rome,"ج.م34,662","ج.م24,562",5.0,13,Pier Francesco,Architect
+Guesthouse,Testaccio,"ج.م67,983","ج.م51,551",5.0,5,Tony,Filmmaker
+Room,Monti,"ج.م51,712","ج.م32,683",5.0,4,Benedetto,Artistic director
+Apartment,Castro Pretorio,"ج.م275,627","ج.م171,666",4.95,297,Benedetto,Artistic director
+Room,Prati,"ج.م30,481","ج.م26,575",4.92,53,Piero,Software engineer
+Apartment,Monti,"ج.م50,223","ج.م46,324",4.89,392,Ludovica,Painter
+Condo,Ostiense,"ج.م29,402","ج.م25,090",4.9,254,Mugiko,Hospitality
+Condo,Tuscolano,"ج.م32,844","ج.م22,290",4.94,512,Daniel,Social technician
+Room,Tuscolano,"ج.م10,312","ج.م7,147",4.64,14,Federico,Audio
+Loft,Trevi,"ج.م73,640","ج.م32,551",4.77,163,Juan Carlos,Musician
+Apartment,Trevi,"ج.م77,592","ج.م63,648",4.8,716,Valeria,Freelance
+Apartment,Celio,"ج.م166,053","ج.م137,055",5.0,69,G,Hosting for
+Vacation home,Rome,"ج.م60,379","ج.م36,644",4.88,98,Lilith,Secret agent
+Vacation home,Rome,"ج.م82,736","ج.م70,586",4.9,309,Royal,Hosting for
+Room,Tuscolano,"ج.م14,693","ج.م13,536",5.0,192,Francesco,Hospitality
+Home,Rome,"ج.م32,359","ج.م23,802",4.85,387,Giulia,Employee
+Hotel,Castro Pretorio,"ج.م31,231","ج.م25,618",4.67,139,Elena,Hosting for
+Room,Trionfale,"ج.م65,347","ج.م52,160",4.92,26,Lilith,Secret agent
+Apartment,Portuense,"ج.م35,541","ج.م22,646",5.0,9,G,Hosting for
+Apartment,Trevi,"ج.م40,877","ج.م35,654",4.9,597,Francesco,Hospitality
+Apartment,Ludovisi,"ج.م32,701","ج.م25,618",4.95,116,Isabella,Chef
+Room,Don Bosco,"ج.م32,359","ج.م23,802",5.0,4,Maria Pia,Hosting for
+Apartment,Rome,"ج.م40,877","ج.م35,654",4.96,24,Annie,Researcher
+Apartment,Prati,"ج.م35,316","ج.م23,769",5.0,4,Antonio,Inventory specialist
+Apartment,della Vittoria,"ج.م50,798","ج.م34,994",4.89,461,Gregorio,Music organization
+Room,Trionfale,"ج.م27,085","ج.م21,789",4.92,26,Chiara,Hosting for
+Apartment,Prati,"ج.م25,087","ج.م22,726",5.0,4,Mugiko,Hospitality
+Room,Tuscolano,"ج.م18,878","ج.م11,357",4.8,260,Sergio,Artist
+Vacation home,Trastevere,"ج.م40,370","ج.م21,789",4.71,182,Daniele,Hosting for
+Apartment,Prati,"ج.م22,498","ج.م20,502",5.0,13,G,Hosting for
+Apartment,Aurelio,"ج.م21,856","ج.م15,186",4.79,530,Claudio,Performer
+Condo,Rome,"ج.م25,851","ج.م23,109",4.95,189,Luigia,Television host
+Room,Tuscolano,"ج.م50,798","ج.م34,994",4.79,58,Alice,Illustrator
+Apartment,Tuscolano,"ج.م47,998","ج.م36,975",5.0,3,Lorenzo,Hospitality
+Room,Trieste,"ج.م21,856","ج.م15,186",4.69,689,Emanuela,Entertainment
+Condo,Tuscolano,"ج.م32,701","ج.م25,618",4.82,213,G,Hosting for
+Room,Castro Pretorio,"ج.م25,087","ج.م22,726",4.83,127,Antonio,Artist
+Apartment,Tuscolano,"ج.م74,971","ج.م46,575",5.0,5,Alice,Illustrator
+Apartment,Prati,"ج.م30,633","ج.م27,322",4.81,31,G,Hosting for
+Condo,Monti,"ج.م30,208","ج.م24,300",4.81,192,Pier Francesco,Architect
+Apartment,Campo Marzio,"ج.م24,879","ج.م22,565",4.89,210,Benedetto,Artistic director
+Apartment,Monti,"ج.م60,573","ج.م35,984",4.86,555,Pier Francesco,Architect
+Room,Rome,"ج.م34,662","ج.م24,562",5.0,13,Tony,Filmmaker
+Guesthouse,Testaccio,"ج.م67,983","ج.م51,551",5.0,5,Benedetto,Artistic director
+Room,Monti,"ج.م51,712","ج.م32,683",5.0,4,Benedetto,Artistic director
+Apartment,Castro Pretorio,"ج.م275,627","ج.م171,666",4.95,297,Piero,Software engineer
+Room,Prati,"ج.م30,481","ج.م26,575",4.92,53,Ludovica,Painter
+Apartment,Monti,"ج.م50,223","ج.م46,324",4.89,392,Mugiko,Hospitality
+Condo,Ostiense,"ج.م29,402","ج.م25,090",4.9,254,Daniel,Social technician
+Condo,Tuscolano,"ج.م32,844","ج.م22,290",4.94,512,Federico,Audio
+Room,Tuscolano,"ج.م10,312","ج.م7,147",4.64,14,Juan Carlos,Musician
+Loft,Trevi,"ج.م73,640","ج.م32,551",4.77,163,Valeria,Freelance
+Apartment,Trevi,"ج.م77,592","ج.م63,648",4.8,716,G,Hosting for
+Apartment,Celio,"ج.م166,053","ج.م137,055",5.0,69,Lilith,Secret agent
+Vacation home,Rome,"ج.م60,379","ج.م36,644",4.88,98,Royal,Hosting for
+Vacation home,Rome,"ج.م82,736","ج.م70,586",4.9,309,Francesco,Hospitality
+Room,Tuscolano,"ج.م14,693","ج.م13,536",5.0,192,Giulia,Employee
+Home,Rome,"ج.م32,359","ج.م23,802",4.85,387,Elena,Hosting for
+Hotel,Castro Pretorio,"ج.م31,231","ج.م25,618",4.67,139,Lilith,Secret agent
+Room,Trionfale,"ج.م65,347","ج.م52,160",4.92,26,G,Hosting for
+Apartment,Portuense,"ج.م35,541","ج.م22,646",5.0,9,Francesco,Hospitality
+Apartment,Trevi,"ج.م40,877","ج.م35,654",4.9,597,Isabella,Chef
+Apartment,Ludovisi,"ج.م32,701","ج.م25,618",4.95,116,Maria Pia,Hosting for
+Room,Don Bosco,"ج.م32,359","ج.م23,802",5.0,4,Annie,Researcher
+Apartment,Rome,"ج.م40,877","ج.م35,654",4.96,24,Antonio,Inventory specialist
+Apartment,Prati,"ج.م35,316","ج.م23,769",5.0,4,Gregorio,Music organization
+Apartment,della Vittoria,"ج.م50,798","ج.م34,994",4.89,461,Chiara,Hosting for
+Room,Trionfale,"ج.م27,085","ج.م21,789",4.92,26,Mugiko,Hospitality
+Apartment,Prati,"ج.م25,087","ج.م22,726",5.0,4,Sergio,Artist
+Room,Tuscolano,"ج.م18,878","ج.م11,357",4.8,260,Daniele,Hosting for
+Vacation home,Trastevere,"ج.م40,370","ج.م21,789",4.71,182,G,Hosting for
+Apartment,Prati,"ج.م22,498","ج.م20,502",5.0,13,Claudio,Performer
+Apartment,Aurelio,"ج.م21,856","ج.م15,186",4.79,530,Luigia,Television host
+Condo,Rome,"ج.م25,851","ج.م23,109",4.95,189,Alice,Illustrator
+Room,Tuscolano,"ج.م50,798","ج.م34,994",4.79,58,Lorenzo,Hospitality
+Apartment,Tuscolano,"ج.م47,998","ج.م36,975",5.0,3,Emanuela,Entertainment
+Room,Trieste,"ج.م21,856","ج.م15,186",4.69,689,G,Hosting for
+Condo,Tuscolano,"ج.م32,701","ج.م25,618",4.82,213,Antonio,Artist
+Room,Castro Pretorio,"ج.م25,087","ج.م22,726",4.83,127,Alice,Illustrator
+Apartment,Tuscolano,"ج.م74,971","ج.م46,575",5.0,5,G,Hosting for
+Apartment,Prati,"ج.م30,633","ج.م27,322",4.81,31,Pier Francesco,Architect
+Condo,Monti,"ج.م30,208","ج.م24,300",4.81,192,Benedetto,Artistic director
+Apartment,Campo Marzio,"ج.م24,879","ج.م22,565",4.89,210,Pier Francesco,Architect
+Apartment,Monti,"ج.م60,573","ج.م35,984",4.86,555,Tony,Filmmaker
+Room,Rome,"ج.م34,662","ج.م24,562",5.0,13,Benedetto,Artistic director
+Guesthouse,Testaccio,"ج.م67,983","ج.م51,551",5.0,5,Benedetto,Artistic director
+Room,Monti,"ج.م51,712","ج.م32,683",5.0,4,Piero,Software engineer
+Apartment,Castro Pretorio,"ج.م275,627","ج.م171,666",4.95,297,Ludovica,Painter
+Room,Prati,"ج.م30,481","ج.م26,575",4.92,53,Mugiko,Hospitality
+Apartment,Monti,"ج.م50,223","ج.م46,324",4.89,392,Daniel,Social technician
+Condo,Ostiense,"ج.م29,402","ج.م25,090",4.9,254,Federico,Audio
+Condo,Tuscolano,"ج.م32,844","ج.م22,290",4.94,512,Juan Carlos,Musician
+Room,Tuscolano,"ج.م10,312","ج.م7,147",4.64,14,Valeria,Freelance
+Loft,Trevi,"ج.م73,640","ج.م32,551",4.77,163,G,Hosting for
+Apartment,Trevi,"ج.م77,592","ج.م63,648",4.8,716,Lilith,Secret agent
+Apartment,Celio,"ج.م166,053","ج.م137,055",5.0,69,Royal,Hosting for
+Vacation home,Rome,"ج.م60,379","ج.م36,644",4.88,98,Francesco,Hospitality
+Vacation home,Rome,"ج.م82,736","ج.م70,586",4.9,309,Giulia,Employee
+Room,Tuscolano,"ج.م14,693","ج.م13,536",5.0,192,Elena,Hosting for
+Home,Rome,"ج.م32,359","ج.م23,802",4.85,387,Lilith,Secret agent
+Hotel,Castro Pretorio,"ج.م31,231","ج.م25,618",4.67,139,G,Hosting for
+Room,Trionfale,"ج.م65,347","ج.م52,160",4.92,26,Francesco,Hospitality
+Apartment,Portuense,"ج.م35,541","ج.م22,646",5.0,9,Isabella,Chef
+Apartment,Trevi,"ج.م40,877","ج.م35,654",4.9,597,Maria Pia,Hosting for
+Apartment,Ludovisi,"ج.م32,701","ج.م25,618",4.95,116,Annie,Researcher
+Room,Don Bosco,"ج.م32,359","ج.م23,802",5.0,4,Antonio,Inventory specialist
+Apartment,Rome,"ج.م40,877","ج.م35,654",4.96,24,Gregorio,Music organization
+Apartment,Prati,"ج.م35,316","ج.م23,769",5.0,4,Chiara,Hosting for
+Apartment,della Vittoria,"ج.م50,798","ج.م34,994",4.89,461,Mugiko,Hospitality
+Room,Trionfale,"ج.م27,085","ج.م21,789",4.92,26,Sergio,Artist
+Apartment,Prati,"ج.م25,087","ج.م22,726",5.0,4,Daniele,Hosting for
+Room,Tuscolano,"ج.م18,878","ج.م11,357",4.8,260,G,Hosting for
+Vacation home,Trastevere,"ج.م40,370","ج.م21,789",4.71,182,Claudio,Performer
+Apartment,Prati,"ج.م22,498","ج.م20,502",5.0,13,Luigia,Television host
+Apartment,Aurelio,"ج.م21,856","ج.م15,186",4.79,530,Alice,Illustrator
+Condo,Rome,"ج.م25,851","ج.م23,109",4.95,189,Lorenzo,Hospitality
+Room,Tuscolano,"ج.م50,798","ج.م34,994",4.79,58,Emanuela,Entertainment
+Apartment,Tuscolano,"ج.م47,998","ج.م36,975",5.0,3,G,Hosting for
+Room,Trieste,"ج.م21,856","ج.م15,186",4.69,689,Antonio,Artist
+Condo,Tuscolano,"ج.م32,701","ج.م25,618",4.82,213,Alice,Illustrator
+Room,Castro Pretorio,"ج.م25,087","ج.م22,726",4.83,127,G,Hosting for
+Apartment,Tuscolano,"ج.م74,971","ج.م46,575",5.0,5,Pier Francesco,Architect
+Apartment,Prati,"ج.م30,633","ج.م27,322",4.81,31,Benedetto,Artistic director
+Condo,Monti,"ج.م30,208","ج.م24,300",4.81,192,Pier Francesco,Architect
+Apartment,Campo Marzio,"ج.م24,879","ج.م22,565",4.89,210,Tony,Filmmaker
+Apartment,Monti,"ج.م60,573","ج.م35,984",4.86,555,Benedetto,Artistic director
+Room,Rome,"ج.م34,662","ج.م24,562",5.0,13,Benedetto,Artistic director
+Guesthouse,Testaccio,"ج.م67,983","ج.م51,551",5.0,5,Piero,Software engineer
+Room,Monti,"ج.م51,712","ج.م32,683",5.0,4,Ludovica,Painter
+Apartment,Castro Pretorio,"ج.م275,627","ج.م171,666",4.95,297,Mugiko,Hospitality
+Room,Prati,"ج.م30,481","ج.م26,575",4.92,53,Unknown,Unknown
+Apartment,Monti,"ج.م50,223","ج.م46,324",4.89,392,Unknown,Unknown
+Condo,Ostiense,"ج.م29,402","ج.م25,090",4.9,254,Unknown,Unknown
+Condo,Tuscolano,"ج.م32,844","ج.م22,290",4.94,512,Unknown,Unknown
+Apartment,della Vittoria,"ج.م57,694","ج.م41,947",4.78,117,Unknown,Unknown
+Condo,Rome,"ج.م18,878","ج.م11,357",4.83,127,Unknown,Unknown
+Apartment,Trastevere,"ج.م49,279","ج.م31,673",4.89,461,Unknown,Unknown
+Condo,Monti,"ج.م53,488","ج.م41,464",4.95,189,Unknown,Unknown
+Apartment,Tuscolano,"ج.م44,713","ج.م35,654",4.98,40,Unknown,Unknown
+Condo,Trionfale,"ج.م66,254","ج.م54,155",4.89,460,Unknown,Unknown
+Room,Rome,"ج.م41,533","ج.م24,100",4.95,140,Unknown,Unknown
+Room,Ponte Mammolo,"ج.م23,896","ج.م20,072",5.0,16,Unknown,Unknown
+Apartment,Trionfale,"ج.م45,524","ج.م22,779",4.94,72,Unknown,Unknown
+Apartment,Castro Pretorio,"ج.م30,328","ج.م22,678",5.0,3,Unknown,Unknown
+Apartment,Gianicolense,"ج.م44,940","ج.م30,042",5.0,4,Unknown,Unknown
+Apartment,Rome,"ج.م20,383","ج.م16,507",4.97,79,Unknown,Unknown
+Apartment,Rome,"ج.م63,219","ج.م35,984",4.67,3,Unknown,Unknown
+Apartment,Rome,"ج.م20,421","ج.م16,837",5.0,16,Unknown,Unknown
+Villa,Rome,"ج.م21,739","ج.م11,861",4.99,76,Unknown,Unknown
+Condo,Trionfale,"ج.م54,534","ج.م49,758",4.94,135,Unknown,Unknown
+Condo,Don Bosco,"ج.م25,880","ج.م20,431",5.0,3,Unknown,Unknown
+Apartment,della Vittoria,"ج.م46,347","ج.م29,491",4.96,24,Unknown,Unknown
+Loft,Rome,"ج.م35,844","ج.م30,174",5.0,3,Unknown,Unknown
+Room,Tuscolano,"ج.م53,488","ج.م41,464",4.96,50,Unknown,Unknown
+Apartment,Castro Pretorio,"ج.م23,194","ج.م15,371",5.0,4,Unknown,Unknown
+Loft,Prati,"ج.م27,089","ج.م23,201",4.95,83,Unknown,Unknown
+Apartment,Rome,"ج.م23,433","ج.م18,515",4.96,27,Unknown,Unknown
+Room,Tuscolano,"ج.م41,562","ج.م23,076",4.66,440,Unknown,Unknown
+Apartment,Rome,"ج.م235,486","ج.م172,241",4.79,58,Unknown,Unknown
+Condo,della Vittoria,"ج.م60,689","ج.م51,725",4.84,44,Unknown,Unknown
+Condo,Rome,"ج.م25,880","ج.م20,431",5.0,79,Unknown,Unknown
+Room,Primavalle,"ج.م35,844","ج.م30,174",4.89,37,Unknown,Unknown
+Room,Rome,"ج.م63,813","ج.م52,821",4.86,191,Unknown,Unknown
+Room,Castro Pretorio,"ج.م45,820","ج.م21,485",4.96,122,Unknown,Unknown
+Apartment,Trastevere,"ج.م29,478","ج.م22,977",4.9,179,Unknown,Unknown
+Loft,Rome,"ج.م31,099","ج.م27,401",4.93,161,Unknown,Unknown
+Apartment,Frascati,"ج.م24,510","ج.م20,402",4.79,170,Unknown,Unknown
+Apartment,Rome,"ج.م22,185","ج.م20,006",5.0,63,Unknown,Unknown
+Apartment,Rome,"ج.م82,291","ج.م70,317",5.0,7,Unknown,Unknown
+Apartment,Rome,"ج.م69,125","ج.م40,732",4.76,85,Unknown,Unknown
+Room,Rome,"ج.م25,268","ج.م20,468",4.94,265,Unknown,Unknown
+Condo,Rome,"ج.م62,793","ج.م34,136",4.69,216,Unknown,Unknown
+Loft,Rome,"ج.م62,832","ج.م43,798",4.6,600,Unknown,Unknown
+Condo,Rome,"ج.م20,410","ج.م17,827",4.65,290,Unknown,Unknown
+Condo,Rome,"ج.م18,341","ج.م16,605",4.67,147,Unknown,Unknown
+Room,Rome,"ج.م46,575","ج.م38,013",4.5,22,Unknown,Unknown
+Apartment,Rome,"ج.م49,179","ج.م42,280",5.0,13,Unknown,Unknown
+Apartment,Rome,"ج.م31,861","ج.م22,449",4.97,38,Unknown,Unknown
+Vacation home,Rome,"ج.م42,650","ج.م32,169",4.92,312,Unknown,Unknown
+Apartment,Rome,"ج.م37,478","ج.م25,609",5.0,5,Unknown,Unknown
+Condo,Rome,"ج.م38,725","ج.م21,663",5.0,79,Unknown,Unknown
+Vacation home,Rome,"ج.م49,768","ج.م28,613",4.74,204,Unknown,Unknown
+Condo,Rome,"ج.م25,880","ج.م20,431",5.0,6,Unknown,Unknown
+Condo,Aurelio,"ج.م32,439","ج.م25,470",4.75,55,Unknown,Unknown
+Apartment,Tuscolano,"ج.م30,256","ج.م24,100",4.75,4,Unknown,Unknown
+Apartment,Don Bosco,"ج.م25,531","ج.م23,308",4.49,61,Unknown,Unknown
+Room,Don Bosco,"ج.م84,989","ج.م45,558",5.0,9,Unknown,Unknown
+Apartment,Rome,"ج.م31,012","ج.م21,723",5.0,3,Unknown,Unknown
+Apartment,Celio,"ج.م19,512","ج.م16,480",5.0,8,Unknown,Unknown
+Apartment,Aurelio,"ج.م46,827","ج.م36,173",5.0,15,Unknown,Unknown
+Condo,Ostiense,"ج.م109,548","ج.م90,455",5.0,5,Unknown,Unknown
+Apartment,Aurelio,"ج.م43,114","ج.م28,127",5.0,9,Unknown,Unknown
+Condo,Rome,"ج.م19,905","ج.م16,045",5.0,6,Unknown,Unknown
+Apartment,Parione,"ج.م46,827","ج.م36,173",5.0,6,Unknown,Unknown
+Apartment,Trieste,"ج.م27,085","ج.م21,789",5.0,9,Unknown,Unknown
+Apartment,Rome,"ج.م34,439","ج.م28,721",5.0,5,Unknown,Unknown
+Home,Tuscolano,"ج.م64,845","ج.م54,141",4.96,56,Unknown,Unknown
+Room,Prati,"ج.م35,254","ج.م25,090",5.0,19,Unknown,Unknown
+Room,Rome,"ج.م38,444","ج.م21,723",5.0,20,Unknown,Unknown
+Room,Rome,"ج.م37,029","ج.م33,558",4.88,33,Unknown,Unknown
+Apartment,Rome,"ج.م51,775","ج.م33,268",4.98,40,Unknown,Unknown
+Condo,Rome,"ج.م26,890","ج.م19,082",4.91,332,Unknown,Unknown
+Room,Rome,"ج.م33,789","ج.م26,483",4.78,153,Unknown,Unknown
+Room,Rome,"ج.م45,737","ج.م29,118",4.94,88,Unknown,Unknown
+Apartment,Rome,"ج.م23,367","ج.م18,646",4.72,136,Unknown,Unknown
+Condo,Rome,"ج.م55,023","ج.م30,867",4.81,833,Unknown,Unknown
+Apartment,Rome,"ج.م39,260","ج.م30,042",5.0,31,Unknown,Unknown
+Condo,Rome,"ج.م21,739","ج.م11,861",4.56,139,Unknown,Unknown
+Apartment,Rome,"ج.م47,857","ج.م35,178",4.82,286,Unknown,Unknown
+Room,Rome,"ج.م63,294","ج.م35,004",4.8,157,Unknown,Unknown
+Apartment,Rome,"ج.م42,458","ج.م25,024",4.93,328,Unknown,Unknown
+Condo,Rome,"ج.م27,829","ج.م21,043",4.8,260,Unknown,Unknown
+Apartment,Rome,"ج.م59,997","ج.م37,203",4.81,285,Unknown,Unknown
+Condo,Rome,"ج.م37,948","ج.م24,733",4.97,97,Unknown,Unknown
+Home,Rome,"ج.م43,081","ج.م29,712",5.0,4,Unknown,Unknown
+Place to stay,Rome,"ج.م29,315","ج.م24,826",4.82,241,Unknown,Unknown
+Room,Rome,"ج.م26,904","ج.م21,046",4.96,26,Unknown,Unknown
+Apartment,Rome,"ج.م40,790","ج.م33,268",4.69,13,Unknown,Unknown
+Apartment,Rome,"ج.م38,830","ج.م32,326",4.95,84,Unknown,Unknown
+Apartment,Frascati,"ج.م33,284","ج.م28,193",5.0,3,Unknown,Unknown
+Apartment,Rome,"ج.م188,036","ج.م153,322",4.85,13,Unknown,Unknown
+Condo,Rome,"ج.م29,315","ج.م24,826",5.0,22,Unknown,Unknown
+Apartment,Rome,"ج.م52,238","ج.م45,772",4.88,102,Unknown,Unknown
+Room,Rome,"ج.م66,434","ج.م49,410",4.94,47,Unknown,Unknown
+Room,Rome,"ج.م45,483","ج.م38,955",4.88,26,Unknown,Unknown
+Vacation home,Rome,"ج.م67,216","ج.م51,378",4.88,252,Unknown,Unknown
+Condo,Rome,"ج.م65,637","ج.م54,965",4.86,167,Unknown,Unknown
+Apartment,Rome,"ج.م35,787","ج.م29,712",4.87,118,Unknown,Unknown
+Apartment,Rome,"ج.م32,701","ج.م25,618",4.79,205,Unknown,Unknown
+Home,Rome,"ج.م52,238","ج.م45,772",4.71,104,Unknown,Unknown
+Room,Rome,"ج.م54,241","ج.م26,892",4.93,230,Unknown,Unknown
+Condo,Rome,"ج.م18,030","ج.م14,790",4.97,59,Unknown,Unknown
+Home,Piana del Sole,"ج.م34,697","ج.م31,362",5.0,13,Unknown,Unknown
+Room,Prati,"ج.م42,458","ج.م25,024",4.83,215,Unknown,Unknown
+Apartment,Parione,"ج.م59,491","ج.م31,692",4.75,12,Unknown,Unknown
+Room,Tuscolano,"ج.م93,058","ج.م50,394",4.65,518,Unknown,Unknown
+Condo,Portuense,"ج.م41,982","ج.م37,635",4.97,59,Unknown,Unknown
+Apartment,Aurelio,"ج.م29,222","ج.م20,798",4.79,530,Unknown,Unknown
+Apartment,Parione,"ج.م41,992","ج.م34,664",4.82,158,Unknown,Unknown
+Room,Tuscolano,"ج.م43,660","ج.م35,324",4.73,11,Unknown,Unknown
+Room,Pietralata,"ج.م70,765","ج.م43,907",4.8,350,Unknown,Unknown
+Room,Portuense,"ج.م33,021","ج.م22,044",4.68,136,Unknown,Unknown
+Place to stay,Monti,"ج.م22,587","ج.م18,884",4.89,90,Unknown,Unknown
+Apartment,Rome,"ج.م41,882","ج.م28,640",4.59,256,Unknown,Unknown
+Condo,Trionfale,"ج.م43,651","ج.م37,503",4.64,64,Unknown,Unknown
+Apartment,Parione,"ج.م30,000","ج.م26,080",4.94,247,Unknown,Unknown
+Condo,della Vittoria,"ج.م62,171","ج.م55,833",4.77,248,Unknown,Unknown
+Apartment,Trionfale,"ج.م21,722","ج.م17,167",4.54,549,Unknown,Unknown
+Apartment,Parione,"ج.م39,766","ج.م29,580",4.81,37,Unknown,Unknown
+Condo,Rome,"ج.م46,575","ج.م38,013",4.81,21,Unknown,Unknown
+Apartment,Rome,"ج.م33,966","ج.م31,363",4.57,599,Unknown,Unknown
+Vacation home,Rome,"ج.م81,292","ج.م57,773",4.78,49,Unknown,Unknown
+Apartment,Frascati,"ج.م44,466","ج.م31,032",4.55,271,Unknown,Unknown
+Apartment,Rome,"ج.م107,036","ج.م61,977",4.5,22,Unknown,Unknown
+Apartment,Rome,"ج.م43,010","ج.م30,491",4.71,7,Unknown,Unknown
+Room,Rome,"ج.م32,979","ج.م24,364",4.59,151,Unknown,Unknown
+Apartment,Rome,"ج.م33,590","ج.م24,100",4.8,56,Unknown,Unknown
+Room,Rome,"ج.م65,637","ج.م54,965",4.76,37,Unknown,Unknown
+Apartment,Rome,"ج.م43,068","ج.م29,052",4.91,139,Unknown,Unknown
+Apartment,Rome,"ج.م58,686","ج.م44,898",5.0,4,Unknown,Unknown
+Room,Rome,"ج.م69,365","ج.م49,867",4.72,58,Unknown,Unknown
+Apartment,Rome,"ج.م48,382","ج.م39,170",4.67,3,,
+Apartment,Rome,"ج.م54,534","ج.م49,758",4.77,94,,
+Loft,Rome,"ج.م23,760","ج.م21,393",4.73,110,,
