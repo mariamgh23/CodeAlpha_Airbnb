@@ -114,6 +114,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ---
 
-You can now drop this right into the end of your `README.md` file, and it will match the exact format and structure of the earlier sections. Let me know if you’d like to add things like badges, a project banner, or sample screenshots!
 
 
