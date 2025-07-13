@@ -43,33 +43,24 @@ airbnb-scraping-eda/
 ├── README.md                # This file
 └── LICENSE
 
-🚀 Key Features
-Scrapes multiple pages of Airbnb listings.
+##🚀 Key Features
 
-Handles currency symbols, discounts, and incomplete data.
 
-Converts textual information (like "5 nights for EGP 2000") into structured columns.
+-Scrapes multiple pages of Airbnb listings.
+-Handles currency symbols, discounts, and incomplete data.
+-Converts textual information (like "5 nights for EGP 2000") into structured columns.
+###Performs EDA on:
+-Price distribution
+-Ratings vs. price
+-Most common locations
+-Discounts and sales impact
+--Uses exception handling for robust scraping.
 
-Performs EDA on:
-
-Price distribution
-
-Ratings vs. price
-
-Most common locations
-
-Discounts and sales impact
-
-Uses exception handling for robust scraping.
-
-📊 Sample Insights
-Average Airbnb price in Cairo
-
-Correlation between price and rating
-
-Popular areas and average costs
-
-Listing types and their frequency
+##📊 Sample Insights
+-Average Airbnb price in Cairo
+-Correlation between price and rating
+-Popular areas and average costs
+-Listing types and their frequency
 
 📎 How to Run
 Clone the repo:
@@ -88,13 +79,13 @@ jupyter notebook notebooks/02_eda.ipynb
 
 
 
-🙏 Acknowledgements
+##🙏 Acknowledgements
 Special thanks to CodeAlpha for the opportunity and guidance throughout the internship.
 
-📜 License
+##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📬 Contact
+##📬 Contact
 Mariam Ghareeb
 📧 mariamghareeb376@gmail.com
 🔗 LinkedIn:https://www.linkedin.com/in/mariam-ghareeb
