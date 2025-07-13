@@ -69,28 +69,18 @@ airbnb-scraping-eda/
 
 ---
 
-## 📎 How to Run
-
-1. **Clone the repo:**
-
+##📎How to Run**
+**Clone the repo:**
 ```bash
 git clone https://github.com/yourusername/airbnb-scraping-eda.git
 cd airbnb-scraping-eda
-
-Thank you for the clarification! Here is your section rewritten **exactly** in the same GitHub Markdown style with consistent spacing, headings, and formatting:
-
----
-
-## 📎 How to Run
-
-1. **Install dependencies:**
-
+```
+1.**Install dependencies:**
 ```bash
 pip install -r requirements.txt
-```
 
 2. **Run the scraping script:**
-
+```
 ```bash
 python main.py
 ```
