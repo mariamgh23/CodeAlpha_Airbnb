@@ -25,27 +25,6 @@ The main objective of this project is to:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-airbnb-scraping-eda/
-│
-├── 📁 data/                  # Raw and cleaned datasets
-│
-├── 📁 notebooks/             # Jupyter Notebooks for scraping and EDA
-│   ├── 01_scraping.ipynb
-│   └── 02_eda.ipynb
-│
-├── 📁 images/                # Visualizations used in the analysis
-│
-├── main.py                  # Scraping script (if applicable)
-├── requirements.txt         # List of required packages
-├── README.md                # This file
-└── LICENSE
-
-
----
-
 ## 🚀 Key Features
 
 - ✅ Scrapes **multiple pages** of Airbnb listings.
