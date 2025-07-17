@@ -247,10 +247,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Author**: [Your Name]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+**Author**:Mariam Ghareeb
+- **LinkedIn**: www.linkedin.com/in/mariam-ghareeb-0a8517266
+- **Email**: mariamghareeb376@gmail.com
+- **GitHub**:https://github.com/mariamgh23
 
 ## 🙏 Acknowledgments
 
